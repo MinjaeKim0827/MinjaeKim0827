@@ -2,11 +2,11 @@
 
 I am an undergraduate researcher in the Observational Cosmology and Calibration Lab (OBSCAL) at KAIST, advised by Prof. Junhan Kim. I am currently pursuing my B.S. in Physics, with strong interests in simulation&observational cosmology, scientific computing, and large-scale structure of the universe.
 
-This summer, I will participate in the International Summer Research Program (ISRP) at the University of California, Santa Cruz, to analyze and study the serendipitous detections in the SPLASH catalogs.
+(Current News), I am participating in the research internship at Korea Astronomy and space science Institute(KASI), to analyze and study the very high redshift quasars through SPHEREx.
 
 - 🛰️ Undergraduate Researcher @ OBSCAL, KAIST
-- 🌌 Interested in: Astrophysics, Multi-wavelength observation
-- 🧠 Tools: Python (NumPy, Matplotlib, pytorch, illustris_python, PyAtomDB), LaTeX, Git
-- 🔭 Research: Circumgalactic Medium, Cosmological Simulations, 
+- 🌌 Interested in: Astrophysics, Galaxy Formation and Evolution
+- 🧠 Tools: Python, Machine Learning LaTeX, Git
+- 🔭 Research: Circumgalactic Medium, Cosmological Simulations, Galaxy formation and evolution, Quasars
 - 📍 Based in Daejeon, South Korea | Open to global collaboration
-- 📫 Contact: heromj27@kaist.ac.kr
+- 📫 Info : MinjaeKim0827@github.io
